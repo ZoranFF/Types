@@ -2,8 +2,8 @@
   "name": "ff/types",
   "description": "Brings Basic Classes",
   "autoload": {
-    "psr-4": {
-      "FF\\Types\\": "FF/Types/"
+    "psr-0": {
+      "FF\\Types": "src"
     }
   }
 }
