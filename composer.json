@@ -1,4 +1,9 @@
 {
   "name": "ff/types",
-  "description": "Brings Basic Classes"
+  "description": "Brings Basic Classes",
+  "autoload": {
+    "psr-4": {
+      "Psr\\Log\\": "Psr/Log/"
+    }
+  }
 }
