@@ -3,7 +3,7 @@
   "description": "Brings Basic Classes",
   "autoload": {
     "psr-4": {
-      "Psr\\Log\\": "Psr/Log/"
+      "FF\\Types\\": "FF/Types/"
     }
   }
 }
