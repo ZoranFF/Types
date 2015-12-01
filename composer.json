@@ -1,8 +1,4 @@
 {
-  "name": "your-vendor-name/package-name",
-  "description": "A short description of what your package does",
-  "require": {
-    "php": ">=5.3.0",
-    "another-vendor/package": "1.*"
-  }
+  "name": "FF/Types",
+  "description": "Brings Basic Type Classes like String, Int, Float"
 }
