@@ -3,7 +3,7 @@
   "description": "Brings Basic Classes",
   "autoload": {
     "psr-0": {
-      "FF\\Types": "src"
+      "FF": "src/"
     }
   }
 }
