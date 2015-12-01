@@ -7,6 +7,8 @@
  * Time: 16:36
  */
 
+namespace FF\Types;
+
 class Int extends Type
 {
     protected function getTypeSpecific($val)

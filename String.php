@@ -6,6 +6,9 @@
  * Date: 01.12.15
  * Time: 16:35
  */
+
+namespace FF\Types;
+
 class String extends Type
 {
     protected function getTypeSpecific($val)

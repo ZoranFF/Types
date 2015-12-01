@@ -6,6 +6,8 @@
  * Date: 01.12.15
  * Time: 16:36
  */
+namespace FF\Types;
+
 class Float extends Type
 {
     protected function getTypeSpecific($val)

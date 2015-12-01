@@ -7,6 +7,8 @@
  * Time: 16:31
  */
 
+namespace FF\Types;
+
 abstract class Type
 {
     protected $val;
