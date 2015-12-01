@@ -1,4 +1,4 @@
 {
-  "name": "FF/Types",
-  "description": "Brings Basic Type Classes like String, Int, Float"
+  "name": "ff/types",
+  "description": "Brings Basic Classes"
 }
